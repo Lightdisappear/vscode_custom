@@ -1,6 +1,7 @@
 /* custom css of vscode editor */
 
 /* make inlay hint font italic */
-.dyn-rule-2-2 {
+/* match all [class^="dyn-rule-"] as it may change */
+[class^="dyn-rule-"] {
     font-style: italic;
 }
