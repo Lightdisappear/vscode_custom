@@ -1,2 +1,2 @@
 # vscode_custom
-vscode_custom
+custom css of vscode
